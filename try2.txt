@@ -1,2 +1,3 @@
 ECHO is on.
 file 2 before version 1
+added text after first comit 
