@@ -1,2 +1,4 @@
 ECHO is on.
 chapter 3 before version 1 
+
+after 2 commits 
