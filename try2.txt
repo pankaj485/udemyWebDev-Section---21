@@ -1,0 +1,2 @@
+ECHO is on.
+file 2 before version 1
